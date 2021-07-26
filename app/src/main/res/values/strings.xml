@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Alcas</string>
+    <string name="title_activity_tela_inicial">TelaInicial</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string-array name="planets_array">
+        <item>....</item>
+        <item>Amarelo Biscoito</item>
+        <item>Amarelo Biscoito(PLASTICO)</item>
+        <item>Azul Bic</item>
+        <item>Azul Bic(PLASTICO)</item>
+        <item>Azul Marinho</item>
+        <item>Azul Marinho(PLASTICO)</item>
+        <item>Branco</item>
+        <item>Branco(PLASTICO)</item>
+        <item>Castanho</item>
+        <item>Castanho(PLASTICO)</item>
+        <item>Coral</item>
+        <item>Coral(PLASTICO)</item>
+        <item>Chocolate</item>
+        <item>Chocolate(PLASTICO)</item>
+        <item>Vermelho</item>
+        <item>Vermelho(PLASTICO)</item>
+        <item>Vermelho Pimenta</item>
+        <item>Vermelho Pimenta(PLASTICO)</item>
+        <item>Satin</item>
+        <item>Satin(PLASTICO)</item>
+        <item>Marfim</item>
+        <item>Marfim(PLASTICO)</item>
+        <item>Verde Susi</item>
+        <item>Verde Susi(PLASTICO)</item>
+        <item>Verde Pavão</item>
+        <item>Verde Pavão(PLASTICO)</item>
+        <item>Jaipu</item>
+        <item>Jaipu(PLASTICO)</item>
+        <item>Preto</item>
+        <item>Preto(PLASTICO)</item>
+        <item>Pink</item>
+        <item>Pink(PLASTICO)</item>
+        <item>Rosa BB</item>
+        <item>Rosa BB(PLASTICO)</item>
+        <item>Rosa Hero</item>
+        <item>Rosa Hero(PLASTICO)</item>
+        <item>Vinho</item>
+        <item>Vinho(PLASTICO)</item>
+    </string-array>
+
+</resources>
